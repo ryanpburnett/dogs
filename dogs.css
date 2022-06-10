@@ -36,7 +36,7 @@ img {
 img:hover {
     transition: all 0.2s;
     box-shadow: 5px 5px 10px;
-    transform: rotate(0.01turn);
+    transform: rotate(0.002turn);
 }
 
 img:active {
